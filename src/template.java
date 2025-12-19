@@ -2,7 +2,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 
 /**
- * <a href="https://acm.timus.ru/problem.aspx?space=1&num="></a><br><br>
+ * <a href="https://acm.timus.ru/problem.aspx?space=1&num="></a>
  */
 
 public class template {
